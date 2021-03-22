@@ -1,4 +1,6 @@
-Hi, I’m Bill Clark, aka @MortalBill. I'm lead game programmer at Cold Symmetry, makers of Mortal Shell. I didn't work on that excellent game, but was inspired to join the team by playing it.
+Hi, I’m Bill Clark, aka @MortalBill.
+I'm lead game programmer at Cold Symmetry, the studio behind Mortal Shell.
+I didn't work on that excellent game, but was inspired to join the team by playing it.
 I'm new to Unreal, but looking to contribute back to its impressive community.
 
 <!---
